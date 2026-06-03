@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
   <owner>stolbitsa</owner>
-  <repo>dominant-harmonic-Eb</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="stolbitsa" repo="dominant"/>
+  <repo>dominant-harmonic-eb</repo>
+  <version>v1.0.1</version>
+  <next number="1" owner="stolbitsa" repo="dominant-harmonic"/>
   <readme>
-    <en>02d271dbf8af20cdda1275305ab7f8c403c0071243c2d431b330e95ad288efbf</en>
     <ru>eb8189979a582865d39a3ef185636b6293e35697e4c671a508ae173775da76f4</ru>
+    <en>02d271dbf8af20cdda1275305ab7f8c403c0071243c2d431b330e95ad288efbf</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
